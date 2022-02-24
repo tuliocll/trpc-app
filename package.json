@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "build:server": "yarn --cwd apps/server build",
+    "start:server": "yarn --cwd apps/server start"
+  },
   "workspaces": {
     "packages": [
       "packages/*",
