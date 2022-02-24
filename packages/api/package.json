@@ -1,0 +1,12 @@
+{
+  "name": "@tcll/api",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": true,
+  "files": [
+    "src"
+  ],
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {}
+}
